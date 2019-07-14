@@ -35,5 +35,7 @@ Install requirements by:
 * `basic`: Notebook w/ basic visualization for a dataset.
 
 * `powers`: Notebook for comparison between the dataset and various functions, viewing on various scales to provide intuition on the dataset power and behavior.
+
 ### Analysers 
 
+* `Hurst Exponent`: Notebook for calculating H (Hurst Exponent) 
