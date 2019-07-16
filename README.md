@@ -39,3 +39,5 @@ Install requirements by:
 ### Analysers 
 
 * `Hurst Exponent`: Notebook for calculating H (Hurst Exponent) 
+
+* `DFA`: Notebook that calculates Detrended fluctuation analysis (DFA) - an extension to H exponent. Helpful for understanding auto-correlation, fracal dimension. 
