@@ -44,7 +44,6 @@ Install requirements by:
 
 ## ToDo
 
-* Improve white-noise model, add pink noise and other generators
 * Add analysis for ACF
 * Add multi fractal generator
-* Add Mandelbrot analysis
+* Add Mandelbrot Financial analysis
