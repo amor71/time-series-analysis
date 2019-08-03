@@ -45,5 +45,10 @@ Install requirements by:
 ## ToDo
 
 * Add analysis for ACF
+* add generators for step, sin and similar processes
+* add FT
 * Add multi fractal generator
 * Add Mandelbrot Financial analysis
+* Calc H and DFA over time/scale calc parameters
+* integrate w/ external APIs for market data
+
