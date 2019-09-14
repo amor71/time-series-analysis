@@ -38,7 +38,7 @@ Install requirements by:
 
 * `powers`: Notebook for comparison between the data-set and various functions, viewing on various scales to provide intuition on the dataset power and behavior.
 
-* `stationary-vs-non-stationary`: calculates and presents the mean and variance of the timeseries over time. The presentation should help forming an intuition of the timeseries is a result of a stationary or non-stationary process. 
+* `stationary-vs-non-stationary`: calculates and presents the mean and variance of the timeseries over time. Identify weak-stationary-process using auto-covariance. The presentation should help forming an intuition of the timeseries is a result of a stationary or non-stationary process. 
 
 ### Analysers 
 
@@ -46,12 +46,14 @@ Install requirements by:
 
 * `DFA`: Notebook that calculates Detrended fluctuation analysis (DFA) - an extension to H exponent. Helpful for understanding auto-correlation, fracal dimension. 
 
-* [WIP] `auto-correlation`: Calculates the auto-covariance of the time-series, and uses the calculations to calculate and presents the auto-correlation frequency.
+* `auto-correlation`: Calculates the auto-covariance of the time-series, and uses the calculations to calculate and presents the auto-correlation frequency.
+
+* [WIP]`lrd`: Long Range Dependence vs. Short Term Dependence.
 
 ## ToDo
 
-* Add analysis for ACF
-* add generators for step, sin and similar processes
+* Long Range Dependance
+* add generators for step processes
 * add FT
 * Add multi fractal generator
 * Add Mandelbrot Financial analysis
