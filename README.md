@@ -48,15 +48,5 @@ Install requirements by:
 
 * `auto-correlation`: Calculates the auto-covariance of the time-series, and uses the calculations to calculate and presents the auto-correlation frequency.
 
-* [WIP]`lrd`: Long Range Dependence vs. Short Term Dependence.
 
-## ToDo
-
-* Long Range Dependance
-* add generators for step processes
-* add FT
-* Add multi fractal generator
-* Add Mandelbrot Financial analysis
-* Calc H and DFA over time/scale calc parameters
-* integrate w/ external APIs for market data
 
