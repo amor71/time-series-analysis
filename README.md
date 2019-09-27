@@ -40,6 +40,8 @@ Install requirements by:
 
 * `stationary-vs-non-stationary`: calculates and presents the mean and variance of the timeseries over time. Identify weak-stationary-process using auto-covariance. The presentation should help forming an intuition of the timeseries is a result of a stationary or non-stationary process. 
 
+* `lag view (iid analysis)`: presents lag plot of the time-series, with lag 1, 2, 4, 8, 16 (1 & 2 lags also showed w log scale). The view is helpful to get some basic intuition on the independeance assumption of the time series, and the autocorrelation
+
 ### Analysers 
 
 * `Hurst Exponent`: Notebook for calculating H (Hurst Exponent) 
