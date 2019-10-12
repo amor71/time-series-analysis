@@ -42,6 +42,8 @@ Install requirements by:
 
 * `lag view (iid analysis)`: presents lag plot of the time-series, with lag 1, 2, 4, 8, 16 (1 & 2 lags also showed w log scale). The view is helpful to get some basic intuition on the independeance assumption of the time series, and the autocorrelation
 
+* `deltas`: present visualizations of the time-series deltas, as well as visualized the probability for a streak of upwards and downwards trends. For financial time-series, helps to form intuition on volatility and decision making processes.
+
 ### Analysers 
 
 * `Hurst Exponent`: Notebook for calculating H (Hurst Exponent) 
