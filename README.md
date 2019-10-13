@@ -52,5 +52,8 @@ Install requirements by:
 
 * `auto-correlation`: Calculates the auto-covariance of the time-series, and uses the calculations to calculate and presents the auto-correlation frequency.
 
+* `calc-probability-for-trend-change`: Calculate the probability of hitting a trend change after first occurance of an upward trend. For example, given a financial daily time-series, calculate the probability of "losing" if going "long" after first day of upward trend. 
+
+
 
 
